@@ -1,0 +1,14 @@
+Single Link:
+https://mybinder.org/v2/gh/TMHP-DMO-DataScience/Python_Tutorial/master?filepath=TMHP_Python_Tutorial_I.ipynb
+
+Initial Setup:
+https://mybinder.org/# 
+
+Github Repository:
+https://github.com/TMHP-DMO-DataScience/Python_Tutorial
+
+Git Branch:
+master
+
+Path to Notebook File:
+TMHP_Python_Tutorial_I.ipynb
