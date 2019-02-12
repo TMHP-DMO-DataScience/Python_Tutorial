@@ -1,6 +1,9 @@
 Chrome Installation:
 https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en
 
+Github Home:
+https://github.com/TMHP-DMO-DataScience/Python_Tutorial
+
 Single Link:
 https://mybinder.org/v2/gh/TMHP-DMO-DataScience/Python_Tutorial/master?filepath=TMHP_Python_Tutorial_I.ipynb
 
